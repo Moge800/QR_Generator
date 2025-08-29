@@ -1,3 +1,0 @@
-powershell
-.venv\Scripts\Activate.ps1
-nuitka --standalone --onefile --follow-imports --remove-output --windows-console-mode=disable --lto=yes --enable-plugin=tk-inter QR_Generator.py
