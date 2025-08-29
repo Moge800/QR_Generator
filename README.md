@@ -9,6 +9,8 @@
 ### Description
 A simple and intuitive QR code generator application built with Python and tkinter. This desktop application allows you to generate QR codes in real-time as you type and save them as PNG images.
 
+![Application Screenshot](sample.png)
+
 ### Features
 - **Real-time QR code generation**: QR codes are generated instantly as you type
 - **Easy saving**: Left-click on the QR code to save it as a PNG file
@@ -65,6 +67,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 概要
 Pythonとtkinterで構築されたシンプルで直感的なQRコード生成アプリケーションです。このデスクトップアプリケーションでは、入力と同時にリアルタイムでQRコードを生成し、PNG画像として保存することができます。
+
+![アプリケーションのスクリーンショット](sample.png)
 
 ### 機能
 - **リアルタイムQRコード生成**: 入力と同時に瞬時にQRコードが生成されます
